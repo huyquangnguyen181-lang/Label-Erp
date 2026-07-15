@@ -1,0 +1,9 @@
+{
+  "version": "1.2.2.0",
+  "downloadUrl": "https://raw.githubusercontent.com/huyquangnguyen181-lang/Label-Erp/main/TCT_Label_ERP_1_2_2_0.zip",
+  "fileName": "TCT_Label_ERP_1_2_2_0.zip",
+  "sha256": "3055DA43C3DFB437D86623052B47B9B0DF2A5D2BB85BB310FDE3EC7732DC04CA",
+  "mandatory": true,
+  "approvalRequired": false,
+  "changelog": "Ban cau noi bao mat 1.2.2.0. Giu nguyen chuc nang 1.2.1.0, bo sung co che kiem tra quyen cap nhat cho cac phien ban duoc chu so huu bao ve."
+}
